@@ -111,9 +111,9 @@
 }
 
 form button {
-    width: 166px;
+  width: 166px;
   height: 47px;
-  margin: 8px 66px 102px 49px;
+  
   padding: 14px 61px;
   object-fit: contain;
   border-radius: 24px !important;
