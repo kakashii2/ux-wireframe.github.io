@@ -111,16 +111,15 @@
     width: 120px;
 }
 
-form button {
+form .button {
   width: 166px;
   height: 47px;
-  
-  padding: 14px 61px;
-  object-fit: contain;
+  vertical-align: middle !important;
   border-radius: 24px !important;
   border: solid 1px #707070 !important;
 
 }
+
 
 .footer span,a {
     font-size: 12px;
