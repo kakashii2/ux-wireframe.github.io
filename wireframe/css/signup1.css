@@ -1,0 +1,23 @@
+
+.top-container {
+    margin: 115px 106px 45px  106px;
+
+}
+
+.mid-container {
+   margin: 0px 108px 21px 109px;
+}
+
+.mid-container button {
+    width: 166px;
+  height: 47px;
+  padding: 14px 54px 14px 55px;
+  object-fit: contain;
+  border-radius: 24px;
+  border: solid 1px #707070;
+  background-color: #fff;
+}
+
+.bottom-container span {
+    font-size : 12px;
+}

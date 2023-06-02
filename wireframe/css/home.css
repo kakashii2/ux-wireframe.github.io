@@ -63,8 +63,8 @@
     height : 9.7%;
     background-color: #e1e1e1;
     margin-top : 7.5%;
-    position: absolute;
-    bottom: 0;
+    /* position: absolute;
+    bottom: 0; */
 }
 
 .menu-wrap .tap {
