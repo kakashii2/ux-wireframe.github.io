@@ -1,8 +1,17 @@
 
+.mycontainer {
+    background: linear-gradient(rgb(255, 255, 255), rgb(212, 212, 212), rgb(183, 183, 183));
+}
+
 .top-container {
     margin-top:4.7%;
     display: flex;
     justify-content: center;
+}
+
+.mid-container {
+    width:250px;
+    height: 300px;
 }
 
 
