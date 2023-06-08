@@ -4,20 +4,26 @@
     font-weight: 400;
     font-style: normal;
 }
-  
-  body {
-    font-family: 'Pretendard', sans-serif;  /* 프렌다드 글꼴을 기본 글꼴로 지정 */
-  }
 
-  .mycontainer {
-    width : 395px;
-    height: 649px;
-    text-align: center;
-    align-items: center;
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
 
-    position:absolute;
-    top:50%;
-    left:50%;
-    transform: translate(-50%,-50%);
-    
+
+ body {
+   font-family: 'Pretendard', sans-serif;  /* 프렌다드 글꼴을 기본 글꼴로 지정 */
+ }
+
+ .mycontainer {
+   width : 395px;
+   height: 649px;
+   text-align: center;
+   align-items: center;
+
+   position:absolute;
+   top:50%;
+   left:50%;
+   transform: translate(-50%,-50%);
+   height: 100%;    
 }
