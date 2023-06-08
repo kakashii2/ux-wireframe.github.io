@@ -47,9 +47,9 @@
   background-color: #e1e1e1;
 }
 
-.img-container {
+.innerbox {
   width: 29px;
-  height: px;
+  height: 12px;
   object-fit: contain;
   border-radius: 5px;
   background-color: white;
